@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1553666467313" stop="1553666506763" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : LoginTest</name>
+    <title>Suite : LoginTest</title>
+    <test-cases>
+        <test-case start="1553666467494" stop="1553666468660" status="passed">
+            <name>Launchtest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="LoginTest"/>
+                <label name="testClass" value="WAFMTest.LoginTest"/>
+                <label name="testMethod" value="Launchtest"/>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="9264@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553666467494" stop="1553666468660" status="passed">
+            <name>Launchtest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="LoginTest"/>
+                <label name="testClass" value="WAFMTest.LoginTest"/>
+                <label name="testMethod" value="Launchtest"/>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="9264@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553666468699" stop="1553666479978" status="passed">
+            <name>LoginValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="LoginTest"/>
+                <label name="testClass" value="WAFMTest.LoginTest"/>
+                <label name="testMethod" value="LoginValidation"/>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="9264@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553666468699" stop="1553666479978" status="passed">
+            <name>LoginValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="LoginTest"/>
+                <label name="testClass" value="WAFMTest.LoginTest"/>
+                <label name="testMethod" value="LoginValidation"/>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="9264@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553666480066" stop="1553666506704" status="passed">
+            <name>homePageContents</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="LoginTest"/>
+                <label name="testClass" value="WAFMTest.LoginTest"/>
+                <label name="testMethod" value="homePageContents"/>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="9264@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553666480066" stop="1553666506704" status="passed">
+            <name>homePageContents</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="LoginTest"/>
+                <label name="testClass" value="WAFMTest.LoginTest"/>
+                <label name="testMethod" value="homePageContents"/>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="9264@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

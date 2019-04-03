@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1547446126544" stop="1547446133120" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test</name>
+    <title>Suite : Test</title>
+    <test-cases>
+        <test-case start="1547446126613" stop="1547446133096" status="passed">
+            <name>Launchtest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="Launchtest"/>
+                <label name="host" value="Sushants-Jio.local"/>
+                <label name="thread" value="39491@Sushants-Jio.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547446126613" stop="1547446133096" status="passed">
+            <name>Launchtest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="Launchtest"/>
+                <label name="host" value="Sushants-Jio.local"/>
+                <label name="thread" value="39491@Sushants-Jio.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

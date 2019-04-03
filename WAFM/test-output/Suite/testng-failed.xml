@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="InvoiceTest(failed)">
+    <classes>
+      <class name="WAFMTest.InvoiceListTest">
+        <methods>
+          <include name="AddApprover"/>
+          <include name="closeextend"/>
+          <include name="getReporter"/>
+          <include name="takeScreenShotOnFailure"/>
+          <include name="PDFDownload"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- WAFMTest.InvoiceListTest -->
+      <class name="WAFMTest.LoginTest">
+        <methods>
+          <include name="takeScreenShotOnFailure"/>
+        </methods>
+      </class> <!-- WAFMTest.LoginTest -->
+    </classes>
+  </test> <!-- InvoiceTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

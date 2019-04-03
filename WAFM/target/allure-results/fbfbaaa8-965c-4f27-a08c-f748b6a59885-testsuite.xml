@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1552907081161" stop="1552907104392" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test</name>
+    <title>Suite : Test</title>
+    <test-cases>
+        <test-case start="1552907081133" stop="1552907081139" status="pending">
+            <name>monProfil</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="12100@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1552907081140" stop="1552907081140" status="pending">
+            <name>FavorisCollab</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="12100@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1552907081141" stop="1552907081141" status="pending">
+            <name>hamburgerMenu</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="12100@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1552907081142" stop="1552907081142" status="pending">
+            <name>logout</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="12100@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1552907081146" stop="1552907081146" status="pending">
+            <name>FavorisPointDeVentes</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="12100@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1552907081163" stop="1552907081163" status="pending">
+            <name>monProfil</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="12100@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1552907081166" stop="1552907081166" status="pending">
+            <name>FavorisCollab</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="12100@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1552907081167" stop="1552907081167" status="pending">
+            <name>hamburgerMenu</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="12100@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1552907081168" stop="1552907081168" status="pending">
+            <name>logout</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="12100@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1552907081169" stop="1552907081169" status="pending">
+            <name>FavorisPointDeVentes</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="12100@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1552907081288" stop="1552907082920" status="passed">
+            <name>Launchtest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="Launchtest"/>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="12100@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1552907081288" stop="1552907082920" status="passed">
+            <name>Launchtest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="Launchtest"/>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="12100@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1552907082934" stop="1552907092952" status="passed">
+            <name>LoginValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="LoginValidation"/>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="12100@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1552907082934" stop="1552907092952" status="passed">
+            <name>LoginValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="LoginValidation"/>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="12100@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1552907092967" stop="1552907104277" status="passed">
+            <name>homePageContents</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="homePageContents"/>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="12100@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1552907092967" stop="1552907104277" status="passed">
+            <name>homePageContents</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="homePageContents"/>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="12100@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

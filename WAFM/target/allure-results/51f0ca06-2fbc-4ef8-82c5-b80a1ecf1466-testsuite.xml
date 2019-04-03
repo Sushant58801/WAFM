@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1547461010427" stop="1547461067839" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test</name>
+    <title>Suite : Test</title>
+    <test-cases>
+        <test-case start="1547461010463" stop="1547461017044" status="passed">
+            <name>Launchtest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="Launchtest"/>
+                <label name="host" value="Sushants-Jio.local"/>
+                <label name="thread" value="42100@Sushants-Jio.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547461010463" stop="1547461017044" status="passed">
+            <name>Launchtest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="Launchtest"/>
+                <label name="host" value="Sushants-Jio.local"/>
+                <label name="thread" value="42100@Sushants-Jio.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547461017058" stop="1547461022711" status="passed">
+            <name>LoginValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="LoginValidation"/>
+                <label name="host" value="Sushants-Jio.local"/>
+                <label name="thread" value="42100@Sushants-Jio.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547461017058" stop="1547461022711" status="passed">
+            <name>LoginValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="LoginValidation"/>
+                <label name="host" value="Sushants-Jio.local"/>
+                <label name="thread" value="42100@Sushants-Jio.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547461022718" stop="1547461025655" status="passed">
+            <name>homePageContents</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="homePageContents"/>
+                <label name="host" value="Sushants-Jio.local"/>
+                <label name="thread" value="42100@Sushants-Jio.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547461022718" stop="1547461025655" status="passed">
+            <name>homePageContents</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="homePageContents"/>
+                <label name="host" value="Sushants-Jio.local"/>
+                <label name="thread" value="42100@Sushants-Jio.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547461025659" stop="1547461030023" status="passed">
+            <name>pointDeVente</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="pointDeVente"/>
+                <label name="host" value="Sushants-Jio.local"/>
+                <label name="thread" value="42100@Sushants-Jio.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547461025659" stop="1547461030023" status="passed">
+            <name>pointDeVente</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="pointDeVente"/>
+                <label name="host" value="Sushants-Jio.local"/>
+                <label name="thread" value="42100@Sushants-Jio.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547461030029" stop="1547461031710" status="passed">
+            <name>hamburgerMenu</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="hamburgerMenu"/>
+                <label name="host" value="Sushants-Jio.local"/>
+                <label name="thread" value="42100@Sushants-Jio.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547461030029" stop="1547461031710" status="passed">
+            <name>hamburgerMenu</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="hamburgerMenu"/>
+                <label name="host" value="Sushants-Jio.local"/>
+                <label name="thread" value="42100@Sushants-Jio.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547461031714" stop="1547461034566" status="passed">
+            <name>monProfil</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="monProfil"/>
+                <label name="host" value="Sushants-Jio.local"/>
+                <label name="thread" value="42100@Sushants-Jio.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547461031714" stop="1547461034566" status="passed">
+            <name>monProfil</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="monProfil"/>
+                <label name="host" value="Sushants-Jio.local"/>
+                <label name="thread" value="42100@Sushants-Jio.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547461034570" stop="1547461047762" status="passed">
+            <name>FavorisCollab</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="FavorisCollab"/>
+                <label name="host" value="Sushants-Jio.local"/>
+                <label name="thread" value="42100@Sushants-Jio.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547461034570" stop="1547461047762" status="passed">
+            <name>FavorisCollab</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="FavorisCollab"/>
+                <label name="host" value="Sushants-Jio.local"/>
+                <label name="thread" value="42100@Sushants-Jio.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547461047769" stop="1547461063248" status="passed">
+            <name>FavorisPointDeVentes</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="FavorisPointDeVentes"/>
+                <label name="host" value="Sushants-Jio.local"/>
+                <label name="thread" value="42100@Sushants-Jio.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547461047769" stop="1547461063248" status="passed">
+            <name>FavorisPointDeVentes</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="FavorisPointDeVentes"/>
+                <label name="host" value="Sushants-Jio.local"/>
+                <label name="thread" value="42100@Sushants-Jio.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547461063256" stop="1547461067770" status="passed">
+            <name>logout</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="logout"/>
+                <label name="host" value="Sushants-Jio.local"/>
+                <label name="thread" value="42100@Sushants-Jio.local.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547461063256" stop="1547461067770" status="passed">
+            <name>logout</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="logout"/>
+                <label name="host" value="Sushants-Jio.local"/>
+                <label name="thread" value="42100@Sushants-Jio.local.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

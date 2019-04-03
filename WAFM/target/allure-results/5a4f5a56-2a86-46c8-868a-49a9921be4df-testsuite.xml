@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1553499692082" stop="1553499758767" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : LoginTest</name>
+    <title>Suite : LoginTest</title>
+    <test-cases>
+        <test-case start="1553499692305" stop="1553499694274" status="passed">
+            <name>Launchtest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="LoginTest"/>
+                <label name="testClass" value="WAFMTest.LoginTest"/>
+                <label name="testMethod" value="Launchtest"/>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="14728@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553499692305" stop="1553499694274" status="passed">
+            <name>Launchtest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="LoginTest"/>
+                <label name="testClass" value="WAFMTest.LoginTest"/>
+                <label name="testMethod" value="Launchtest"/>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="14728@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553499694294" stop="1553499704738" status="passed">
+            <name>LoginValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="LoginTest"/>
+                <label name="testClass" value="WAFMTest.LoginTest"/>
+                <label name="testMethod" value="LoginValidation"/>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="14728@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553499694294" stop="1553499704738" status="passed">
+            <name>LoginValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="LoginTest"/>
+                <label name="testClass" value="WAFMTest.LoginTest"/>
+                <label name="testMethod" value="LoginValidation"/>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="14728@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553499704759" stop="1553499757545" status="broken">
+            <name>homePageContents</name>
+            <failure>
+                <message>WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: connect ECONNREFUSED 127.0.0.1:8200 (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.20 seconds
+Build info: version: '2.50.1', revision: 'd7fc91b29de65b790abb01f3ac5f7ea2191c88a7', time: '2016-01-29 11:11:26'
+System info: host: 'LT062360', ip: '10.87.75.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.sg.R27A.waf, statBarHeight=84, viewportRect={top=84, left=0, width=1440, height=2308}, deviceName=emulator-5554, platform=ANDROID, deviceUDID=emulator-5554, desired={appPackage=com.sg.R27A.waf, appActivity=com.sg.R27A.waf.view.activities.SplashActivity, app=C:\Users\S6670405\Desktop\New folder\WAFM\BuildForAutomation\WAFM.apk, allowTestPackages=true, platformVersion=8.1.0, automationName=UiAutomator2, platformName=Android, deviceName=emulator-5554, platform=ANDROID}, platformVersion=8.1.0, webStorageEnabled=false, automationName=UiAutomator2, takesScreenshot=true, javascriptEnabled=true, platformName=Android, deviceApiLevel=27, deviceManufacturer=Google, app=C:\Users\S6670405\Desktop\New folder\WAFM\BuildForAutomation\WAFM.apk, deviceScreenSize=1440x2560, networkConnectionEnabled=true, allowTestPackages=true, warnings={}, databaseEnabled=false, appActivity=com.sg.R27A.waf.view.activities.SplashActivity, pixelRatio=3.5, locationContextEnabled=false, deviceScreenDensity=560, deviceModel=Android SDK built for x86}]
+Session ID: e279c634-356f-48a0-9712-f1d37f5251dd
+*** Element info: {Using=id, value=com.sg.R27A.waf:id/leftIcon}</message>
+                <stack-trace>org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: connect ECONNREFUSED 127.0.0.1:8200 (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.20 seconds
+Build info: version: '2.50.1', revision: 'd7fc91b29de65b790abb01f3ac5f7ea2191c88a7', time: '2016-01-29 11:11:26'
+System info: host: 'LT062360', ip: '10.87.75.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.sg.R27A.waf, statBarHeight=84, viewportRect={top=84, left=0, width=1440, height=2308}, deviceName=emulator-5554, platform=ANDROID, deviceUDID=emulator-5554, desired={appPackage=com.sg.R27A.waf, appActivity=com.sg.R27A.waf.view.activities.SplashActivity, app=C:\Users\S6670405\Desktop\New folder\WAFM\BuildForAutomation\WAFM.apk, allowTestPackages=true, platformVersion=8.1.0, automationName=UiAutomator2, platformName=Android, deviceName=emulator-5554, platform=ANDROID}, platformVersion=8.1.0, webStorageEnabled=false, automationName=UiAutomator2, takesScreenshot=true, javascriptEnabled=true, platformName=Android, deviceApiLevel=27, deviceManufacturer=Google, app=C:\Users\S6670405\Desktop\New folder\WAFM\BuildForAutomation\WAFM.apk, deviceScreenSize=1440x2560, networkConnectionEnabled=true, allowTestPackages=true, warnings={}, databaseEnabled=false, appActivity=com.sg.R27A.waf.view.activities.SplashActivity, pixelRatio=3.5, locationContextEnabled=false, deviceScreenDensity=560, deviceModel=Android SDK built for x86}]
+Session ID: e279c634-356f-48a0-9712-f1d37f5251dd
+*** Element info: {Using=id, value=com.sg.R27A.waf:id/leftIcon}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:388)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElements(DefaultGenericMobileDriver.java:54)
+	at io.appium.java_client.AppiumDriver.findElements(AppiumDriver.java:149)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementsById(RemoteWebDriver.java:421)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElementsById(DefaultGenericMobileDriver.java:66)
+	at io.appium.java_client.AppiumDriver.findElementsById(AppiumDriver.java:153)
+	at org.openqa.selenium.By$ById.findElements(By.java:210)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:351)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElements(DefaultGenericMobileDriver.java:50)
+	at io.appium.java_client.AppiumDriver.findElements(AppiumDriver.java:145)
+	at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElements(ContentMappedBy.java:36)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:351)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElements(DefaultGenericMobileDriver.java:50)
+	at io.appium.java_client.AppiumDriver.findElements(AppiumDriver.java:145)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:157)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:238)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:91)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:106)
+	at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:57)
+	at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$66804f24.isDisplayed(&lt;generated&gt;)
+	at com.sg.mobile.MyIam.Utils.WAFMHelper.isElementPresent(WAFMHelper.java:51)
+	at com.sg.Page.LoginPage.verifyHomePage(LoginPage.java:106)
+	at WAFMTest.LoginTest.homePageContents(LoginTest.java:40)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="LoginTest"/>
+                <label name="testClass" value="WAFMTest.LoginTest"/>
+                <label name="testMethod" value="homePageContents"/>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="14728@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553499704759" stop="1553499757545" status="broken">
+            <name>homePageContents</name>
+            <failure>
+                <message>WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: connect ECONNREFUSED 127.0.0.1:8200 (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.20 seconds
+Build info: version: '2.50.1', revision: 'd7fc91b29de65b790abb01f3ac5f7ea2191c88a7', time: '2016-01-29 11:11:26'
+System info: host: 'LT062360', ip: '10.87.75.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.sg.R27A.waf, statBarHeight=84, viewportRect={top=84, left=0, width=1440, height=2308}, deviceName=emulator-5554, platform=ANDROID, deviceUDID=emulator-5554, desired={appPackage=com.sg.R27A.waf, appActivity=com.sg.R27A.waf.view.activities.SplashActivity, app=C:\Users\S6670405\Desktop\New folder\WAFM\BuildForAutomation\WAFM.apk, allowTestPackages=true, platformVersion=8.1.0, automationName=UiAutomator2, platformName=Android, deviceName=emulator-5554, platform=ANDROID}, platformVersion=8.1.0, webStorageEnabled=false, automationName=UiAutomator2, takesScreenshot=true, javascriptEnabled=true, platformName=Android, deviceApiLevel=27, deviceManufacturer=Google, app=C:\Users\S6670405\Desktop\New folder\WAFM\BuildForAutomation\WAFM.apk, deviceScreenSize=1440x2560, networkConnectionEnabled=true, allowTestPackages=true, warnings={}, databaseEnabled=false, appActivity=com.sg.R27A.waf.view.activities.SplashActivity, pixelRatio=3.5, locationContextEnabled=false, deviceScreenDensity=560, deviceModel=Android SDK built for x86}]
+Session ID: e279c634-356f-48a0-9712-f1d37f5251dd
+*** Element info: {Using=id, value=com.sg.R27A.waf:id/leftIcon}</message>
+                <stack-trace>org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: connect ECONNREFUSED 127.0.0.1:8200 (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.20 seconds
+Build info: version: '2.50.1', revision: 'd7fc91b29de65b790abb01f3ac5f7ea2191c88a7', time: '2016-01-29 11:11:26'
+System info: host: 'LT062360', ip: '10.87.75.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.sg.R27A.waf, statBarHeight=84, viewportRect={top=84, left=0, width=1440, height=2308}, deviceName=emulator-5554, platform=ANDROID, deviceUDID=emulator-5554, desired={appPackage=com.sg.R27A.waf, appActivity=com.sg.R27A.waf.view.activities.SplashActivity, app=C:\Users\S6670405\Desktop\New folder\WAFM\BuildForAutomation\WAFM.apk, allowTestPackages=true, platformVersion=8.1.0, automationName=UiAutomator2, platformName=Android, deviceName=emulator-5554, platform=ANDROID}, platformVersion=8.1.0, webStorageEnabled=false, automationName=UiAutomator2, takesScreenshot=true, javascriptEnabled=true, platformName=Android, deviceApiLevel=27, deviceManufacturer=Google, app=C:\Users\S6670405\Desktop\New folder\WAFM\BuildForAutomation\WAFM.apk, deviceScreenSize=1440x2560, networkConnectionEnabled=true, allowTestPackages=true, warnings={}, databaseEnabled=false, appActivity=com.sg.R27A.waf.view.activities.SplashActivity, pixelRatio=3.5, locationContextEnabled=false, deviceScreenDensity=560, deviceModel=Android SDK built for x86}]
+Session ID: e279c634-356f-48a0-9712-f1d37f5251dd
+*** Element info: {Using=id, value=com.sg.R27A.waf:id/leftIcon}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:388)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElements(DefaultGenericMobileDriver.java:54)
+	at io.appium.java_client.AppiumDriver.findElements(AppiumDriver.java:149)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementsById(RemoteWebDriver.java:421)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElementsById(DefaultGenericMobileDriver.java:66)
+	at io.appium.java_client.AppiumDriver.findElementsById(AppiumDriver.java:153)
+	at org.openqa.selenium.By$ById.findElements(By.java:210)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:351)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElements(DefaultGenericMobileDriver.java:50)
+	at io.appium.java_client.AppiumDriver.findElements(AppiumDriver.java:145)
+	at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElements(ContentMappedBy.java:36)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:351)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElements(DefaultGenericMobileDriver.java:50)
+	at io.appium.java_client.AppiumDriver.findElements(AppiumDriver.java:145)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:157)
+	at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:238)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:91)
+	at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:106)
+	at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:57)
+	at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$66804f24.isDisplayed(&lt;generated&gt;)
+	at com.sg.mobile.MyIam.Utils.WAFMHelper.isElementPresent(WAFMHelper.java:51)
+	at com.sg.Page.LoginPage.verifyHomePage(LoginPage.java:106)
+	at WAFMTest.LoginTest.homePageContents(LoginTest.java:40)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="LoginTest"/>
+                <label name="testClass" value="WAFMTest.LoginTest"/>
+                <label name="testMethod" value="homePageContents"/>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="14728@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1553499758599" stop="1553499758606" status="broken">
+            <name>takeScreenShotOnFailure</name>
+            <description>@AfterMethod</description>
+            <failure>
+                <message>WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: connect ECONNREFUSED 127.0.0.1:8200 (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.02 seconds
+Build info: version: '2.50.1', revision: 'd7fc91b29de65b790abb01f3ac5f7ea2191c88a7', time: '2016-01-29 11:11:26'
+System info: host: 'LT062360', ip: '10.87.75.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.sg.R27A.waf, statBarHeight=84, viewportRect={top=84, left=0, width=1440, height=2308}, deviceName=emulator-5554, platform=ANDROID, deviceUDID=emulator-5554, desired={appPackage=com.sg.R27A.waf, appActivity=com.sg.R27A.waf.view.activities.SplashActivity, app=C:\Users\S6670405\Desktop\New folder\WAFM\BuildForAutomation\WAFM.apk, allowTestPackages=true, platformVersion=8.1.0, automationName=UiAutomator2, platformName=Android, deviceName=emulator-5554, platform=ANDROID}, platformVersion=8.1.0, webStorageEnabled=false, automationName=UiAutomator2, takesScreenshot=true, javascriptEnabled=true, platformName=Android, deviceApiLevel=27, deviceManufacturer=Google, app=C:\Users\S6670405\Desktop\New folder\WAFM\BuildForAutomation\WAFM.apk, deviceScreenSize=1440x2560, networkConnectionEnabled=true, allowTestPackages=true, warnings={}, databaseEnabled=false, appActivity=com.sg.R27A.waf.view.activities.SplashActivity, pixelRatio=3.5, locationContextEnabled=false, deviceScreenDensity=560, deviceModel=Android SDK built for x86}]
+Session ID: e279c634-356f-48a0-9712-f1d37f5251dd</message>
+                <stack-trace>org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: connect ECONNREFUSED 127.0.0.1:8200 (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.02 seconds
+Build info: version: '2.50.1', revision: 'd7fc91b29de65b790abb01f3ac5f7ea2191c88a7', time: '2016-01-29 11:11:26'
+System info: host: 'LT062360', ip: '10.87.75.204', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=com.sg.R27A.waf, statBarHeight=84, viewportRect={top=84, left=0, width=1440, height=2308}, deviceName=emulator-5554, platform=ANDROID, deviceUDID=emulator-5554, desired={appPackage=com.sg.R27A.waf, appActivity=com.sg.R27A.waf.view.activities.SplashActivity, app=C:\Users\S6670405\Desktop\New folder\WAFM\BuildForAutomation\WAFM.apk, allowTestPackages=true, platformVersion=8.1.0, automationName=UiAutomator2, platformName=Android, deviceName=emulator-5554, platform=ANDROID}, platformVersion=8.1.0, webStorageEnabled=false, automationName=UiAutomator2, takesScreenshot=true, javascriptEnabled=true, platformName=Android, deviceApiLevel=27, deviceManufacturer=Google, app=C:\Users\S6670405\Desktop\New folder\WAFM\BuildForAutomation\WAFM.apk, deviceScreenSize=1440x2560, networkConnectionEnabled=true, allowTestPackages=true, warnings={}, databaseEnabled=false, appActivity=com.sg.R27A.waf.view.activities.SplashActivity, pixelRatio=3.5, locationContextEnabled=false, deviceScreenDensity=560, deviceModel=Android SDK built for x86}]
+Session ID: e279c634-356f-48a0-9712-f1d37f5251dd
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:46)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:335)
+	at main.java.BaseTest.takeScreenShotOnFailure(BaseTest.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:786)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="14728@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

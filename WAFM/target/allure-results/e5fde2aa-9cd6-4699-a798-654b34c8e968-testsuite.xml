@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1551942070749" stop="1551942080408" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test</name>
+    <title>Suite : Test</title>
+    <test-cases>
+        <test-case start="1551942070743" stop="1551942070745" status="pending">
+            <name>monProfil</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="saads-imac.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="25201@saads-imac.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1551942070745" stop="1551942070745" status="pending">
+            <name>pointDeVente</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="saads-imac.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="25201@saads-imac.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1551942070745" stop="1551942070745" status="pending">
+            <name>FavorisCollab</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="saads-imac.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="25201@saads-imac.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1551942070745" stop="1551942070745" status="pending">
+            <name>hamburgerMenu</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="saads-imac.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="25201@saads-imac.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1551942070746" stop="1551942070746" status="pending">
+            <name>logout</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="saads-imac.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="25201@saads-imac.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1551942070747" stop="1551942070747" status="pending">
+            <name>FavorisPointDeVentes</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="saads-imac.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="25201@saads-imac.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1551942070749" stop="1551942070749" status="pending">
+            <name>monProfil</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="saads-imac.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="25201@saads-imac.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1551942070749" stop="1551942070749" status="pending">
+            <name>pointDeVente</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="saads-imac.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="25201@saads-imac.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1551942070749" stop="1551942070749" status="pending">
+            <name>FavorisCollab</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="saads-imac.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="25201@saads-imac.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1551942070749" stop="1551942070749" status="pending">
+            <name>hamburgerMenu</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="saads-imac.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="25201@saads-imac.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1551942070750" stop="1551942070750" status="pending">
+            <name>logout</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="saads-imac.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="25201@saads-imac.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1551942070751" stop="1551942070751" status="pending">
+            <name>FavorisPointDeVentes</name>
+            <failure>
+                <message>Test not implemented yet</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="saads-imac.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="25201@saads-imac.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1551942070781" stop="1551942073632" status="passed">
+            <name>Launchtest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="Launchtest"/>
+                <label name="host" value="saads-imac.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="25201@saads-imac.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1551942070781" stop="1551942073632" status="passed">
+            <name>Launchtest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="Launchtest"/>
+                <label name="host" value="saads-imac.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="25201@saads-imac.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1551942073638" stop="1551942079133" status="passed">
+            <name>LoginValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="LoginValidation"/>
+                <label name="host" value="saads-imac.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="25201@saads-imac.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1551942073638" stop="1551942079133" status="passed">
+            <name>LoginValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="LoginValidation"/>
+                <label name="host" value="saads-imac.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="25201@saads-imac.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1551942079143" stop="1551942080391" status="passed">
+            <name>homePageContents</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="homePageContents"/>
+                <label name="host" value="saads-imac.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="25201@saads-imac.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1551942079143" stop="1551942080391" status="passed">
+            <name>homePageContents</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="homePageContents"/>
+                <label name="host" value="saads-imac.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="25201@saads-imac.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

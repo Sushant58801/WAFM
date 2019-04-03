@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1547615734325" stop="1547615797290" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test</name>
+    <title>Suite : Test</title>
+    <test-cases>
+        <test-case start="1547615734366" stop="1547615741255" status="passed">
+            <name>Launchtest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="Launchtest"/>
+                <label name="host" value="sushants-jio.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="54115@sushants-jio.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547615734366" stop="1547615741255" status="passed">
+            <name>Launchtest</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="Launchtest"/>
+                <label name="host" value="sushants-jio.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="54115@sushants-jio.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547615741269" stop="1547615746670" status="passed">
+            <name>LoginValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="LoginValidation"/>
+                <label name="host" value="sushants-jio.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="54115@sushants-jio.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547615741269" stop="1547615746670" status="passed">
+            <name>LoginValidation</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="LoginValidation"/>
+                <label name="host" value="sushants-jio.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="54115@sushants-jio.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547615746684" stop="1547615749568" status="passed">
+            <name>homePageContents</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="homePageContents"/>
+                <label name="host" value="sushants-jio.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="54115@sushants-jio.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547615746684" stop="1547615749568" status="passed">
+            <name>homePageContents</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="homePageContents"/>
+                <label name="host" value="sushants-jio.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="54115@sushants-jio.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547615749573" stop="1547615753817" status="passed">
+            <name>pointDeVente</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="pointDeVente"/>
+                <label name="host" value="sushants-jio.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="54115@sushants-jio.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547615749573" stop="1547615753817" status="passed">
+            <name>pointDeVente</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="pointDeVente"/>
+                <label name="host" value="sushants-jio.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="54115@sushants-jio.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547615753822" stop="1547615755859" status="passed">
+            <name>hamburgerMenu</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="hamburgerMenu"/>
+                <label name="host" value="sushants-jio.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="54115@sushants-jio.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547615753822" stop="1547615755859" status="passed">
+            <name>hamburgerMenu</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="hamburgerMenu"/>
+                <label name="host" value="sushants-jio.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="54115@sushants-jio.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547615755865" stop="1547615758298" status="passed">
+            <name>monProfil</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="monProfil"/>
+                <label name="host" value="sushants-jio.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="54115@sushants-jio.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547615755865" stop="1547615758298" status="passed">
+            <name>monProfil</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="monProfil"/>
+                <label name="host" value="sushants-jio.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="54115@sushants-jio.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547615758302" stop="1547615774039" status="passed">
+            <name>FavorisCollab</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="FavorisCollab"/>
+                <label name="host" value="sushants-jio.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="54115@sushants-jio.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547615758302" stop="1547615774039" status="passed">
+            <name>FavorisCollab</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="FavorisCollab"/>
+                <label name="host" value="sushants-jio.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="54115@sushants-jio.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547615774049" stop="1547615790227" status="passed">
+            <name>FavorisPointDeVentes</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="FavorisPointDeVentes"/>
+                <label name="host" value="sushants-jio.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="54115@sushants-jio.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547615774049" stop="1547615790227" status="passed">
+            <name>FavorisPointDeVentes</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="FavorisPointDeVentes"/>
+                <label name="host" value="sushants-jio.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="54115@sushants-jio.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547615790233" stop="1547615797217" status="passed">
+            <name>logout</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="logout"/>
+                <label name="host" value="sushants-jio.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="54115@sushants-jio.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1547615790233" stop="1547615797217" status="passed">
+            <name>logout</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="Test"/>
+                <label name="testClass" value="myIamTest.LoginTest"/>
+                <label name="testMethod" value="logout"/>
+                <label name="host" value="sushants-jio.in.dhcp.saint-gobain.net"/>
+                <label name="thread" value="54115@sushants-jio.in.dhcp.saint-gobain.net.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

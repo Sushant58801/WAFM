@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1552975253958" stop="1552975255010" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : InvoiceTest</name>
+    <title>Suite : InvoiceTest</title>
+    <test-cases>
+        <test-case start="1552975253983" stop="1552975254963" status="passed">
+            <name>SearchInvoice</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="InvoiceTest"/>
+                <label name="testClass" value="WAFMTest.InvoiceListTest"/>
+                <label name="testMethod" value="SearchInvoice"/>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="14752@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1552975253983" stop="1552975254963" status="passed">
+            <name>SearchInvoice</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="InvoiceTest"/>
+                <label name="testClass" value="WAFMTest.InvoiceListTest"/>
+                <label name="testMethod" value="SearchInvoice"/>
+                <label name="host" value="LT062360"/>
+                <label name="thread" value="14752@LT062360.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
